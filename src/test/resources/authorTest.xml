@@ -1,0 +1,12 @@
+<suite name="Test Author">
+    <test name="Test">
+        <classes>
+            <class name="ua.com.epam.CreateNewAuthor"/>
+            <class name="ua.com.epam.DeleteExistedAuthor"/>
+            <class name="ua.com.epam.GetAllAuthors"/>
+            <class name="ua.com.epam.GetAuthorObjectByAuthorId"/>
+            <class name="ua.com.epam.SearchForAuthorByNameAndSurname"/>
+            <class name="ua.com.epam.UpdateExistedAuthor"/>
+        </classes>>
+    </test>>
+</suite>
